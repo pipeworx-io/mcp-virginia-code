@@ -1,0 +1,18 @@
+[
+  {
+    "name": "va_code_section",
+    "description": "Get the FULL TEXT of a section of the Code of Virginia — Virginia state statutes — by citation. \"Va. Code 18.2-32\" is first and second degree murder. Returns the statutory text. Keyless. Use for \"what does Virginia Code 18.2-32 say\" or to check a Virginia statute a case relies on.",
+    "inputSchema": {
+      "type": "object",
+      "properties": {
+        "section": {
+          "type": "string",
+          "description": "Section as cited, e.g. \"18.2-32\" or \"46.2-862\". Title is the part before the dash."
+        }
+      },
+      "required": [
+        "section"
+      ]
+    }
+  }
+]
