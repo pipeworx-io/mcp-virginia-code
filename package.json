@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-virginia-code",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Code of Virginia — state statutes by citation.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "virginia-code",
     "gatewaySlug": "virginia-code",
-    "sourceHash": "v1-3d00420d0db05c34ab566a4ae7a551c120ac75e06a31247184857c95347e03c6",
-    "sourceCommit": "98853f34516646cb7c4c1460f09249b262c0269e"
+    "sourceHash": "v1-5482ffc1de91d1a61649d99b46aadcce9700048f9d98cee3e567e11a3a980212",
+    "sourceCommit": "ca52e7ed1e1ccad897c2da1b0fa105edc0bc3b2e"
   }
 }
